@@ -12,6 +12,15 @@ In recent years, generative AI, especially AI capable of text generation and ima
 
 
 
+
+
+
+
+
+
+
+
+
 なので私たちも新たなAI、特にテキスト生成などを実装していこうと思います
 
 
